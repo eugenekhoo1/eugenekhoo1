@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**eugenekhoo1/eugenekhoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programming Languages
+- Javascript
+- Python
+- SQL
+- Java (in progress)
 
-Here are some ideas to get you started:
+Packages
+- React/Next
+- Express
+- Socket.io
+- Bootstrap
+- Ethers/Web3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DBs
+- Postgres
+- MongoDB
+- Firebase
+
+Projects
+- [Financial Charts with Live Data (WETH/USDC UNIv3)](weth-usdc-v3.vercel.app)
+- [Decrypto (Game)](react-decrypto.vercel.app)
+- [Job Search Portal UI](nodeflair-assignment-gamma.vercel.app)
+- [Threads Clone](next-threads-henna.vercel.app)
+- [X/Twitter Clone](react-twitter-clone-gilt.vercel.app)
